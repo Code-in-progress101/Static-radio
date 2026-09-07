@@ -1,3 +1,35 @@
 07/09(dd/mm)
 started porject looked into possiable deigns 
-
+ansed the 5WH
+  Who
+    -
+  What (capalities/form factor)
+    -AM and FM radio 
+    -bluetooth, and 2.54ghz wireless 
+    -band scanning 
+    -transmitting and resiving (for both radio 
+    -node in a meshtastic natwork (LORA) 
+    - long range aim for 5km but 1km shoudl do 
+    -
+    -parts 
+        -speaker 
+        - reasiver/transmitter unit
+        -MCU (likey;y a pico W or ESP32)
+        -screen 
+        -buttoms
+        - rotary encoders 
+        - potenimitors( rember these are analog)
+        - likly need a DAC/ADC
+        -
+  where 
+    - mix of rual and urban 
+    -for bushland/out bakc and city
+    -ore emerancy focused for bushland 
+  why
+    -frquenct blackouts 
+    -moblie dat will be out
+    -quick commincation 
+  when 
+    - times of cris 
+  how
+  -?
