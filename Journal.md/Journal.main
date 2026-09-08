@@ -13,6 +13,7 @@ ansed the 5WH
     -
     -parts 
         -speaker 
+        - buzzer for alerts 
         - reasiver/transmitter unit
         -MCU (likey;y a pico W or ESP32)
         -screen 
@@ -20,7 +21,9 @@ ansed the 5WH
         - rotary encoders 
         - potenimitors( rember these are analog)
         - likly need a DAC/ADC
-        -
+        -GPS module
+        - compass
+
   where 
     - mix of rual and urban 
     -for bushland/out bakc and city
